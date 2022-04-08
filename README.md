@@ -13,6 +13,7 @@ The live coding session will be more like a pair programming excercise, we will 
 -   Your preferred IDE / Code Editor
 -   NodeJs > 12.X
 -   (Optional) Postman or Insonmia REST Client
+-   Create your own .env copying the .env.example
 
 ## Libraries used:
 
